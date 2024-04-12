@@ -1,0 +1,12 @@
+[s3]
+bucket = ''
+key = ''
+secret = ''
+region = ''
+
+[mysql]
+dbname = ''
+dbhost = ''
+dbport = ''
+dbuser = ''
+dbpassword = ''
